@@ -1,5 +1,5 @@
-You'll need to install the pythonic parse library with `pip install parse`
+You'll need to install the parse library with `pip install parse`
 
-I've included a docstring and the sample input from the assignment's example in the form of a txt file.
+I've included a docstring, a credit to myself, and the sample input from the assignment's example in the form of a txt file.
 
-I would recommend leaving a credit to me somewhere in the assignment so you don't get hit with a plagarism accusation.
+I would recommend being open about the use of the function so you don't get hit with a plagarism accusation, you're welcome to link this repo if you want.
